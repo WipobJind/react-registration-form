@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/react-registration/'  // Change this to your repo name
+  base: '/react-registration-form/'  
 })
